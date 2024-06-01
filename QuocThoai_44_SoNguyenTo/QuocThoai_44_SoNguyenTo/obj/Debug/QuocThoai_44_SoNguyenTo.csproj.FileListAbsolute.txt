@@ -1,0 +1,10 @@
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\bin\Debug\QuocThoai_44_SoNguyenTo.exe.config
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\bin\Debug\QuocThoai_44_SoNguyenTo.exe
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\bin\Debug\QuocThoai_44_SoNguyenTo.pdb
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.csproj.AssemblyReference.cache
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.Form1.resources
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.Properties.Resources.resources
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.csproj.GenerateResource.cache
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.csproj.CoreCompileInputs.cache
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.exe
+D:\KiemThuPhanMem\QuocThoai_44_SoNguyenTo\QuocThoai_44_SoNguyenTo\obj\Debug\QuocThoai_44_SoNguyenTo.pdb

@@ -1,0 +1,9 @@
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\bin\Debug\PTB1_Cuong_07.exe.config
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\bin\Debug\PTB1_Cuong_07.exe
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\bin\Debug\PTB1_Cuong_07.pdb
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\obj\Debug\PTB1_Cuong_07.csproj.AssemblyReference.cache
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\obj\Debug\PTB1_Cuong_07.Properties.Resources.resources
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\obj\Debug\PTB1_Cuong_07.csproj.GenerateResource.cache
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\obj\Debug\PTB1_Cuong_07.csproj.CoreCompileInputs.cache
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\obj\Debug\PTB1_Cuong_07.exe
+D:\KiemThuPhanMem\PTB1_Cuong_07\PTB1_Cuong_07\obj\Debug\PTB1_Cuong_07.pdb

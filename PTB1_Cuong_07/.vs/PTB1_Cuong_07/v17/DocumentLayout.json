@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38C01D-4561-4AA0-A8ED-80A81E4B7AF0}|PTB1_Test\\PTB1_Test.csproj|d:\\kiemthuphanmem\\ptb1_cuong_07\\ptb1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B38C01D-4561-4AA0-A8ED-80A81E4B7AF0}|PTB1_Test\\PTB1_Test.csproj|solutionrelative:ptb1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38C01D-4561-4AA0-A8ED-80A81E4B7AF0}|PTB1_Test\\PTB1_Test.csproj|D:\\KiemThuPhanMem\\PTB1_Cuong_07\\ptb1_test\\data\\testdata1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B38C01D-4561-4AA0-A8ED-80A81E4B7AF0}|PTB1_Test\\PTB1_Test.csproj|solutionrelative:ptb1_test\\data\\testdata1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B38C01D-4561-4AA0-A8ED-80A81E4B7AF0}|PTB1_Test\\PTB1_Test.csproj|D:\\KiemThuPhanMem\\PTB1_Cuong_07\\ptb1_test\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B38C01D-4561-4AA0-A8ED-80A81E4B7AF0}|PTB1_Test\\PTB1_Test.csproj|solutionrelative:ptb1_test\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C906F1-61B9-4CEB-A85F-7DD0F5E339F3}|PTB1_Cuong_07\\PTB1_Cuong_07.csproj|D:\\KiemThuPhanMem\\PTB1_Cuong_07\\ptb1_cuong_07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95C906F1-61B9-4CEB-A85F-7DD0F5E339F3}|PTB1_Cuong_07\\PTB1_Cuong_07.csproj|solutionrelative:ptb1_cuong_07\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C906F1-61B9-4CEB-A85F-7DD0F5E339F3}|PTB1_Cuong_07\\PTB1_Cuong_07.csproj|D:\\KiemThuPhanMem\\PTB1_Cuong_07\\ptb1_cuong_07\\ptb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C906F1-61B9-4CEB-A85F-7DD0F5E339F3}|PTB1_Cuong_07\\PTB1_Cuong_07.csproj|solutionrelative:ptb1_cuong_07\\ptb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PTB1_Test\\UnitTest1.cs",
+              "ToolTip": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Test\\UnitTest1.cs",
+              "RelativeToolTip": "PTB1_Test\\UnitTest1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:58:34.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Test\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "PTB1_Test\\Data\\TestData.csv",
+              "ToolTip": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Test\\Data\\TestData.csv",
+              "RelativeToolTip": "PTB1_Test\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-30T13:32:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestData1.csv",
+              "DocumentMoniker": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Test\\Data\\TestData1.csv",
+              "RelativeDocumentMoniker": "PTB1_Test\\Data\\TestData1.csv",
+              "ToolTip": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Test\\Data\\TestData1.csv",
+              "RelativeToolTip": "PTB1_Test\\Data\\TestData1.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-30T13:45:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PTB1.cs",
+              "DocumentMoniker": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Cuong_07\\PTB1.cs",
+              "RelativeDocumentMoniker": "PTB1_Cuong_07\\PTB1.cs",
+              "ToolTip": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Cuong_07\\PTB1.cs",
+              "RelativeToolTip": "PTB1_Cuong_07\\PTB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:57:22.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Cuong_07\\Form1.cs",
+              "RelativeDocumentMoniker": "PTB1_Cuong_07\\Form1.cs",
+              "ToolTip": "D:\\KiemThuPhanMem\\PTB1_Cuong_07\\PTB1_Cuong_07\\Form1.cs [Design]",
+              "RelativeToolTip": "PTB1_Cuong_07\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:56:48.71Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

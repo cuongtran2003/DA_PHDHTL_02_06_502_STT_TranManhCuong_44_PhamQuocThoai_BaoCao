@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhGiaiThua_QuocThoai_44", "TinhGiaiThua_QuocThoai_44\TinhGiaiThua_QuocThoai_44.csproj", "{9E96F307-1953-4E05-8B0F-43F5060139E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaiThua_Test", "GiaiThua_Test\GiaiThua_Test.csproj", "{C2FDFCD1-12BA-46C6-A6D4-3E21F97C0C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E96F307-1953-4E05-8B0F-43F5060139E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E96F307-1953-4E05-8B0F-43F5060139E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E96F307-1953-4E05-8B0F-43F5060139E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E96F307-1953-4E05-8B0F-43F5060139E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FDFCD1-12BA-46C6-A6D4-3E21F97C0C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FDFCD1-12BA-46C6-A6D4-3E21F97C0C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FDFCD1-12BA-46C6-A6D4-3E21F97C0C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FDFCD1-12BA-46C6-A6D4-3E21F97C0C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43E6C25-C234-460C-8EFA-01FC58CD6C15}
+	EndGlobalSection
+EndGlobal
